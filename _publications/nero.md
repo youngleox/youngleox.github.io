@@ -2,7 +2,7 @@
 title: "Learning by turning: neural architecture aware optimisation"
 collection: publications
 permalink: /publication/nero
-date: 2021
+date: 2021-02-14
 venue: 'ICML 2021'
 paperurl: 'https://arxiv.org/abs/2102.07227'
 citation: 'Liu, Yang. (2021). "Learning by turning: neural architecture aware optimisation"; <i>ICML 2021</i>. 1(1).'
