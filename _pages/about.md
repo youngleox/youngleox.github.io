@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a researcher interested in artificial and biological neural networks. I received my PhD in Computation and Neural Systems at Caltech. Before Caltech, I studied automotive engineering at Tsinghua University in China. 
 
-My recent work include neuroscience inspired optimization algorithms for robust and high-performance neural network training.
+My recent work include neuroscience inspired optimization algorithms for robust and high-performance neural network training. 
 
-My PhD thesis focused on functional restoration of human vision and data syntheses for computer vision. 
+My PhD thesis focused on functional restoration of human vision and data syntheses for computer vision. My publication on augmented reality powered blind aid was picked up by news outlets including [MIT Tech Review](https://www.technologyreview.com/2018/05/29/142677/hololens-can-now-guide-the-blind-through-complicated-buildings/) and [TechCrunch](https://techcrunch-com.cdn.ampproject.org/v/s/techcrunch.com/2018/05/29/hololens-acts-as-eyes-for-blind-users-and-guides-them-with-audio-prompts/amp/?amp_js_v=a1&amp_gsa=1#%23amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Ftechcrunch.com%2F2018%2F05%2F29%2Fhololens-acts-as-eyes-for-blind-users-and-guides-them-with-audio-prompts%2F).
 
 
 For more information please check out my [CV](https://youngleox.github.io/cv).

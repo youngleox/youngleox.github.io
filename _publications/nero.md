@@ -18,7 +18,7 @@ We propose the Nero optimizer which applies (1) per-neuron relative updates and 
 [Preprint](https://arxiv.org/abs/2102.07227)
 <details>
     <summary>Cite</summary>
-    @misc{nero2021,
+    @misc{nero_2021,
     title={Learning by Turning: Neural Architecture Aware Optimisation},
     author={Yang Liu and Jeremy Bernstein and Markus Meister and Yisong Yue},
     year={2021},
