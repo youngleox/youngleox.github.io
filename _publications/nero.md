@@ -2,7 +2,7 @@
 title: "Learning by turning: neural architecture aware optimisation"
 collection: publications
 permalink: /publication/nero
-date: 2021-02-14
+date: 2021-07-22
 venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/abs/2102.07227'
 # citation: '@misc{nero2021,
